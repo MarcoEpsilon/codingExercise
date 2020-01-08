@@ -1,0 +1,4 @@
+- path: syslog
+  url: https://marcoepsilon.site/golib/log/syslog/
+- path: atomic
+  url: https://marcoepsilon.site/golib/sync/atomic/
