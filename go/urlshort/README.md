@@ -1,0 +1,3 @@
+# 细节(Details)
+该练习主要是用于使用go写出一个url的快捷方式,比如本地访问 localhost:8000/baidu,可以重定向跳转到
+www.baidu.com,这些快捷方式可以通过JSOM,YAML等格式的文件作为输入.(Final...
